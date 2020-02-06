@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/directorio-de-monstruos/static/css/main.fadff892.chunk.css",
+    "main.js": "/directorio-de-monstruos/static/js/main.6ce8768f.chunk.js",
+    "main.js.map": "/directorio-de-monstruos/static/js/main.6ce8768f.chunk.js.map",
+    "runtime-main.js": "/directorio-de-monstruos/static/js/runtime-main.72b8ad48.js",
+    "runtime-main.js.map": "/directorio-de-monstruos/static/js/runtime-main.72b8ad48.js.map",
+    "static/js/2.5685baa6.chunk.js": "/directorio-de-monstruos/static/js/2.5685baa6.chunk.js",
+    "static/js/2.5685baa6.chunk.js.map": "/directorio-de-monstruos/static/js/2.5685baa6.chunk.js.map",
+    "index.html": "/directorio-de-monstruos/index.html",
+    "precache-manifest.767577e12e393158e30a2410a4e6e48f.js": "/directorio-de-monstruos/precache-manifest.767577e12e393158e30a2410a4e6e48f.js",
+    "service-worker.js": "/directorio-de-monstruos/service-worker.js",
+    "static/css/main.fadff892.chunk.css.map": "/directorio-de-monstruos/static/css/main.fadff892.chunk.css.map",
+    "static/js/2.5685baa6.chunk.js.LICENSE": "/directorio-de-monstruos/static/js/2.5685baa6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b8ad48.js",
+    "static/js/2.5685baa6.chunk.js",
+    "static/css/main.fadff892.chunk.css",
+    "static/js/main.6ce8768f.chunk.js"
+  ]
+}
